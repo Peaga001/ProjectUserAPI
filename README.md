@@ -10,7 +10,7 @@ Link do Composer: https://getcomposer.org/download/ <br>
 Php: 7.4 <br>
 Composer: 2.4.1 <br>
 
-<h2>Conexão com o banco de dados <h2>
+<h2>Conexão com o banco de dados </h2>
 
 Criar o banco com o nome desejado e passar suas configurações no arquivo .env do projeto </p>
 Rodar o comando php artisan migrate no terminal para criar as tabelas do banco de dados </p>
