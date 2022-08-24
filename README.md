@@ -1,6 +1,6 @@
 <h2>Requisitos Necessários </h2>
 
-<p>Instalar o Apache / Mysql </p> <br>
+<p>Instalar o Apache / Mysql </p>
 Link do XAMPP: https://www.apachefriends.org/pt_br/download.html <br>
 
 <p>Instalar o composer</p>
