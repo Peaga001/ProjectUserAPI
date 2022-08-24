@@ -17,6 +17,6 @@ Rodar o comando php artisan migrate no terminal para criar as tabelas do banco d
 
 Após baixar será necessário rodar o comando "composer update" no terminal na raiz do projeto para que os pacotes sejam atualizados na pasta vendor que será criada. <br>
 
-Rodar o comando php artisan serve no terminal iniciar a aplicação no http;//localhost:8000 
+Rodar o comando php artisan serve no terminal iniciar a aplicação no http://localhost:8000 
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
